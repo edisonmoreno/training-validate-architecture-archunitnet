@@ -1,0 +1,15 @@
+D:\gitHub\training-clean-architecture-netCore\App.Infraestructure\bin\Debug\net5.0\App.Infraestructure.deps.json
+D:\gitHub\training-clean-architecture-netCore\App.Infraestructure\bin\Debug\net5.0\App.Infraestructure.dll
+D:\gitHub\training-clean-architecture-netCore\App.Infraestructure\bin\Debug\net5.0\ref\App.Infraestructure.dll
+D:\gitHub\training-clean-architecture-netCore\App.Infraestructure\bin\Debug\net5.0\App.Infraestructure.pdb
+D:\gitHub\training-clean-architecture-netCore\App.Infraestructure\bin\Debug\net5.0\App.Core.dll
+D:\gitHub\training-clean-architecture-netCore\App.Infraestructure\bin\Debug\net5.0\App.Core.pdb
+D:\gitHub\training-clean-architecture-netCore\App.Infraestructure\obj\Debug\net5.0\App.Infraestructure.csproj.AssemblyReference.cache
+D:\gitHub\training-clean-architecture-netCore\App.Infraestructure\obj\Debug\net5.0\App.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\gitHub\training-clean-architecture-netCore\App.Infraestructure\obj\Debug\net5.0\App.Infraestructure.AssemblyInfoInputs.cache
+D:\gitHub\training-clean-architecture-netCore\App.Infraestructure\obj\Debug\net5.0\App.Infraestructure.AssemblyInfo.cs
+D:\gitHub\training-clean-architecture-netCore\App.Infraestructure\obj\Debug\net5.0\App.Infraestructure.csproj.CoreCompileInputs.cache
+D:\gitHub\training-clean-architecture-netCore\App.Infraestructure\obj\Debug\net5.0\App.Infraestructure.csproj.CopyComplete
+D:\gitHub\training-clean-architecture-netCore\App.Infraestructure\obj\Debug\net5.0\App.Infraestructure.dll
+D:\gitHub\training-clean-architecture-netCore\App.Infraestructure\obj\Debug\net5.0\ref\App.Infraestructure.dll
+D:\gitHub\training-clean-architecture-netCore\App.Infraestructure\obj\Debug\net5.0\App.Infraestructure.pdb
