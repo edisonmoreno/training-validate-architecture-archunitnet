@@ -45,7 +45,7 @@ namespace App.WebApi.Controllers
         }
 
         // GET: api/Products/Producto 1
-        [HttpGet("/name/{name}")]
+        [HttpGet("name/{name}")]
         public async Task<ActionResult<IEnumerable<Product>>> GetProductByName(String name)
         {
             return await _context.Product.Where(p => p.Name.Contains(name)).ToListAsync();

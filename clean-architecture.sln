@@ -7,9 +7,12 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "App.Core", "App.Core\App.Co
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "App.Infraestructure", "App.Infraestructure\App.Infraestructure.csproj", "{072758F9-F3A2-4B22-B851-DAF18D87244B}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "App.Web", "App.Web\App.Web.csproj", "{C334BA01-BDE4-45D7-A34B-DA3218585219}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App.WebApi", "App.WebApi\App.WebApi.csproj", "{19791432-5D55-4C0C-A922-E303524695A1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "script", "script", "{1ADB3476-F906-4A39-BF2F-5096168FFB65}"
+	ProjectSection(SolutionItems) = preProject
+		script-database-training.sql = script-database-training.sql
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -25,10 +28,6 @@ Global
 		{072758F9-F3A2-4B22-B851-DAF18D87244B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{072758F9-F3A2-4B22-B851-DAF18D87244B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{072758F9-F3A2-4B22-B851-DAF18D87244B}.Release|Any CPU.Build.0 = Release|Any CPU
-		{C334BA01-BDE4-45D7-A34B-DA3218585219}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C334BA01-BDE4-45D7-A34B-DA3218585219}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C334BA01-BDE4-45D7-A34B-DA3218585219}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C334BA01-BDE4-45D7-A34B-DA3218585219}.Release|Any CPU.Build.0 = Release|Any CPU
 		{19791432-5D55-4C0C-A922-E303524695A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{19791432-5D55-4C0C-A922-E303524695A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{19791432-5D55-4C0C-A922-E303524695A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
