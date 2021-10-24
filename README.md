@@ -5,6 +5,8 @@ Validación de la arquitectura (pruebas de arquitectura) de un projecto con Arch
 Verificar dependencias entre paquetes y clases, capas y sectores, verificar dependencias cíclicas y más.  [ArchUnit User Guide
 ](https://archunitnet.readthedocs.io/en/latest/guide/)
 
+Validando una Arquitectura con ArchUnit [Explicación y ejemplos](https://enmilocalfunciona.io/validando-arquitectura-archunit/)
+
 # Basado en:
 
 ## Implementación de arquitectura limpia
