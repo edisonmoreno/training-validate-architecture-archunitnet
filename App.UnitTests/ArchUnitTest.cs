@@ -33,9 +33,6 @@ namespace App.UnitTests
         [Fact]
         public void TypesShouldBeInCorrectLayer()
         {
-            IObjectProvider<Class> ExampleClassesO =
-            Classes().That().HaveNameMatching("Product");
-
             //you can use the fluent API to write your own rules
             IArchRule exampleClassesShouldBeInExampleLayer =
                 Classes().That().Are(ExampleClasses).Should().Be(ExampleLayer);
