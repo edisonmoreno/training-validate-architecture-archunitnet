@@ -10,3 +10,15 @@ D:\gitHub\training-clean-architecture-netCore\App.Core\obj\Debug\net5.0\App.Core
 D:\gitHub\training-clean-architecture-netCore\App.Core\obj\Debug\net5.0\ref\App.Core.dll
 D:\gitHub\training-clean-architecture-netCore\App.Core\obj\Debug\net5.0\App.Core.pdb
 D:\gitHub\training-clean-architecture-netCore\App.Core\obj\Debug\net5.0\App.Core.csproj.AssemblyReference.cache
+D:\gitHub\training-validate-architecture-archunitnet\App.Core\bin\Debug\net5.0\App.Core.deps.json
+D:\gitHub\training-validate-architecture-archunitnet\App.Core\bin\Debug\net5.0\App.Core.dll
+D:\gitHub\training-validate-architecture-archunitnet\App.Core\bin\Debug\net5.0\ref\App.Core.dll
+D:\gitHub\training-validate-architecture-archunitnet\App.Core\bin\Debug\net5.0\App.Core.pdb
+D:\gitHub\training-validate-architecture-archunitnet\App.Core\obj\Debug\net5.0\App.Core.csproj.AssemblyReference.cache
+D:\gitHub\training-validate-architecture-archunitnet\App.Core\obj\Debug\net5.0\App.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\gitHub\training-validate-architecture-archunitnet\App.Core\obj\Debug\net5.0\App.Core.AssemblyInfoInputs.cache
+D:\gitHub\training-validate-architecture-archunitnet\App.Core\obj\Debug\net5.0\App.Core.AssemblyInfo.cs
+D:\gitHub\training-validate-architecture-archunitnet\App.Core\obj\Debug\net5.0\App.Core.csproj.CoreCompileInputs.cache
+D:\gitHub\training-validate-architecture-archunitnet\App.Core\obj\Debug\net5.0\App.Core.dll
+D:\gitHub\training-validate-architecture-archunitnet\App.Core\obj\Debug\net5.0\ref\App.Core.dll
+D:\gitHub\training-validate-architecture-archunitnet\App.Core\obj\Debug\net5.0\App.Core.pdb
