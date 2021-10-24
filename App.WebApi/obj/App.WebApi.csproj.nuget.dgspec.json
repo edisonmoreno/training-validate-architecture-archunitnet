@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\gitHub\\training-clean-architecture-netCore\\App.WebApi\\App.WebApi.csproj": {}
+    "D:\\gitHub\\training-validate-architecture-archunitnet\\App.WebApi\\App.WebApi.csproj": {}
   },
   "projects": {
-    "D:\\gitHub\\training-clean-architecture-netCore\\App.Core\\App.Core.csproj": {
+    "D:\\gitHub\\training-validate-architecture-archunitnet\\App.Core\\App.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\gitHub\\training-clean-architecture-netCore\\App.Core\\App.Core.csproj",
+        "projectUniqueName": "D:\\gitHub\\training-validate-architecture-archunitnet\\App.Core\\App.Core.csproj",
         "projectName": "App.Core",
-        "projectPath": "D:\\gitHub\\training-clean-architecture-netCore\\App.Core\\App.Core.csproj",
+        "projectPath": "D:\\gitHub\\training-validate-architecture-archunitnet\\App.Core\\App.Core.csproj",
         "packagesPath": "C:\\Users\\jhon.moreno\\.nuget\\packages\\",
-        "outputPath": "D:\\gitHub\\training-clean-architecture-netCore\\App.Core\\obj\\",
+        "outputPath": "D:\\gitHub\\training-validate-architecture-archunitnet\\App.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jhon.moreno\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -64,14 +64,14 @@
         }
       }
     },
-    "D:\\gitHub\\training-clean-architecture-netCore\\App.Infraestructure\\App.Infraestructure.csproj": {
+    "D:\\gitHub\\training-validate-architecture-archunitnet\\App.Infraestructure\\App.Infraestructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\gitHub\\training-clean-architecture-netCore\\App.Infraestructure\\App.Infraestructure.csproj",
+        "projectUniqueName": "D:\\gitHub\\training-validate-architecture-archunitnet\\App.Infraestructure\\App.Infraestructure.csproj",
         "projectName": "App.Infraestructure",
-        "projectPath": "D:\\gitHub\\training-clean-architecture-netCore\\App.Infraestructure\\App.Infraestructure.csproj",
+        "projectPath": "D:\\gitHub\\training-validate-architecture-archunitnet\\App.Infraestructure\\App.Infraestructure.csproj",
         "packagesPath": "C:\\Users\\jhon.moreno\\.nuget\\packages\\",
-        "outputPath": "D:\\gitHub\\training-clean-architecture-netCore\\App.Infraestructure\\obj\\",
+        "outputPath": "D:\\gitHub\\training-validate-architecture-archunitnet\\App.Infraestructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jhon.moreno\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -88,8 +88,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\gitHub\\training-clean-architecture-netCore\\App.Core\\App.Core.csproj": {
-                "projectPath": "D:\\gitHub\\training-clean-architecture-netCore\\App.Core\\App.Core.csproj"
+              "D:\\gitHub\\training-validate-architecture-archunitnet\\App.Core\\App.Core.csproj": {
+                "projectPath": "D:\\gitHub\\training-validate-architecture-archunitnet\\App.Core\\App.Core.csproj"
               }
             }
           }
@@ -128,14 +128,14 @@
         }
       }
     },
-    "D:\\gitHub\\training-clean-architecture-netCore\\App.WebApi\\App.WebApi.csproj": {
+    "D:\\gitHub\\training-validate-architecture-archunitnet\\App.WebApi\\App.WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\gitHub\\training-clean-architecture-netCore\\App.WebApi\\App.WebApi.csproj",
+        "projectUniqueName": "D:\\gitHub\\training-validate-architecture-archunitnet\\App.WebApi\\App.WebApi.csproj",
         "projectName": "App.WebApi",
-        "projectPath": "D:\\gitHub\\training-clean-architecture-netCore\\App.WebApi\\App.WebApi.csproj",
+        "projectPath": "D:\\gitHub\\training-validate-architecture-archunitnet\\App.WebApi\\App.WebApi.csproj",
         "packagesPath": "C:\\Users\\jhon.moreno\\.nuget\\packages\\",
-        "outputPath": "D:\\gitHub\\training-clean-architecture-netCore\\App.WebApi\\obj\\",
+        "outputPath": "D:\\gitHub\\training-validate-architecture-archunitnet\\App.WebApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jhon.moreno\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -152,8 +152,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\gitHub\\training-clean-architecture-netCore\\App.Infraestructure\\App.Infraestructure.csproj": {
-                "projectPath": "D:\\gitHub\\training-clean-architecture-netCore\\App.Infraestructure\\App.Infraestructure.csproj"
+              "D:\\gitHub\\training-validate-architecture-archunitnet\\App.Infraestructure\\App.Infraestructure.csproj": {
+                "projectPath": "D:\\gitHub\\training-validate-architecture-archunitnet\\App.Infraestructure\\App.Infraestructure.csproj"
               }
             }
           }

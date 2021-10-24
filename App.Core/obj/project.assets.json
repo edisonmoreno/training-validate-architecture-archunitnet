@@ -746,11 +746,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\gitHub\\training-clean-architecture-netCore\\App.Core\\App.Core.csproj",
+      "projectUniqueName": "D:\\gitHub\\training-validate-architecture-archunitnet\\App.Core\\App.Core.csproj",
       "projectName": "App.Core",
-      "projectPath": "D:\\gitHub\\training-clean-architecture-netCore\\App.Core\\App.Core.csproj",
+      "projectPath": "D:\\gitHub\\training-validate-architecture-archunitnet\\App.Core\\App.Core.csproj",
       "packagesPath": "C:\\Users\\jhon.moreno\\.nuget\\packages\\",
-      "outputPath": "D:\\gitHub\\training-clean-architecture-netCore\\App.Core\\obj\\",
+      "outputPath": "D:\\gitHub\\training-validate-architecture-archunitnet\\App.Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jhon.moreno\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cOU0ELYemyTaS0EBZllD3vPOGkKPowwtEVwXWqmatIet3InUiULfn+0ccgvaGy0otqRdzLm0nOoUXxTNKe4L0w==",
+  "dgSpecHash": "hp1jfTu9Bkdwk5rVW7kYTJ/BYCU8PO4L15lQLPQ595Ywj0XU0ZyX5c+N175Td1xbJNtpdnDVbwMF/yfwea7yqg==",
   "success": true,
-  "projectFilePath": "D:\\gitHub\\training-clean-architecture-netCore\\App.WebApi\\App.WebApi.csproj",
+  "projectFilePath": "D:\\gitHub\\training-validate-architecture-archunitnet\\App.WebApi\\App.WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jhon.moreno\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\jhon.moreno\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",

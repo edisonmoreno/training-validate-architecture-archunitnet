@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = App.Infraestructure
-build_property.ProjectDir = D:\gitHub\training-clean-architecture-netCore\App.Infraestructure\
+build_property.ProjectDir = D:\gitHub\training-validate-architecture-archunitnet\App.Infraestructure\

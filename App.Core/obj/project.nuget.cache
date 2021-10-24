@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9ehYoW3rlQhc5crICLLzA8+uXhgKW2vEuWtrBUvMeOSZ7vWwHu5PR9qntGyJ+nElBIS5wf3MzjCIgR5eHOmVGg==",
+  "dgSpecHash": "ViDlrN4zaxd9FRBNNtJZMbjUSBYSgvPHj+YulBEyxpKVWugZLPXv9Cs94SAiwFCMdyxPpGWu3ViQDuoIBeCgEA==",
   "success": true,
-  "projectFilePath": "D:\\gitHub\\training-clean-architecture-netCore\\App.Core\\App.Core.csproj",
+  "projectFilePath": "D:\\gitHub\\training-validate-architecture-archunitnet\\App.Core\\App.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jhon.moreno\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\5.0.10\\microsoft.aspnetcore.cryptography.internal.5.0.10.nupkg.sha512",
     "C:\\Users\\jhon.moreno\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\5.0.10\\microsoft.aspnetcore.cryptography.keyderivation.5.0.10.nupkg.sha512",
