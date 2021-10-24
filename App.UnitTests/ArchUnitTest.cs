@@ -24,7 +24,7 @@ namespace App.UnitTests
             Classes().That().ImplementInterface("IExampleInterface").As("Example Classes");
 
         private readonly IObjectProvider<IType> ForbiddenLayer =
-            Types().That().ResideInNamespace("ForbiddenNamespace").As("Forbidden Layer");
+            Types().That().ResideInNamespace("App.Core").As("Forbidden Layer");
 
         private readonly IObjectProvider<Interface> ForbiddenInterfaces =
             Interfaces().That().HaveFullNameContaining("forbidden").As("Forbidden Interfaces");
@@ -33,6 +33,9 @@ namespace App.UnitTests
         [Fact]
         public void TypesShouldBeInCorrectLayer()
         {
+            IObjectProvider<Class> ExampleClassesO =
+            Classes().That().HaveNameMatching("Product");
+
             //you can use the fluent API to write your own rules
             IArchRule exampleClassesShouldBeInExampleLayer =
                 Classes().That().Are(ExampleClasses).Should().Be(ExampleLayer);
@@ -49,6 +52,7 @@ namespace App.UnitTests
             combinedArchRule.Evaluate(Architecture);
         }
 
+
         [Fact]
         public void ExampleLayerShouldNotAccessForbiddenLayer()
         {
@@ -61,7 +65,7 @@ namespace App.UnitTests
         [Fact]
         public void ForbiddenClassesShouldHaveCorrectName()
         {
-            Classes().That().AreAssignableTo(ForbiddenInterfaces).Should().HaveNameContaining("forbidden")
+            Classes().That().AreAssignableTo(ForbiddenInterfaces).Should().HaveNameContaining("App.Core")
                 .Evaluate(Architecture);
         }
 
